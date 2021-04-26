@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738255405116",
+    "firebase_url": "https://partyhome1-32643.firebaseio.com",
+    "project_id": "partyhome1-32643",
+    "storage_bucket": "partyhome1-32643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738255405116:android:248665eea20d6ca8090339",
+        "android_client_info": {
+          "package_name": "com.example.partyhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738255405116-vo507kcl8rpnptfb6rec4aorcqmac20l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwNKeSNHDtpDgF4HW1NGiChI9-xsFUHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738255405116-vo507kcl8rpnptfb6rec4aorcqmac20l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
